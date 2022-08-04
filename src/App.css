@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  text-align: left;
+}
+
+td svg {
+  padding-top: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: darkcyan;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.MuiPaper-root {
+  display: inline-flex;
+}
+
+h3,
+h1 {
+  color: darkblue;
+}
+
+.css-zgbp5c-MuiStack-root p {
+  padding-left: 4px;
+  padding-top: 10px;
+}
